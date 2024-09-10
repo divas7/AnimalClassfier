@@ -27,5 +27,5 @@ This project is a simple iOS application built with **Swift** and **SwiftUI** to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/animal-classifier.git
+   git clone https://github.com/divas7/AnimalClassfier.git
    cd animal-classifier
